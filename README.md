@@ -53,7 +53,10 @@ Sırasıyla ;
             
             2 - set SSL true
             
-            3 - set LHOST <buraya kali tun0 ip adresi > <bunun sudo ifconfig komutu ile görebiliriz>
+            3 - set LHOST <buraya kali tun0 ip adresi > <bunu sudo ifconfig komutu ile görebiliriz>
             
+            4 - run 
+            
+
             
 

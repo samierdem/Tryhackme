@@ -39,4 +39,7 @@ Karşım giriş sayfası çıkıyor.
 
 Terminal ekranımda ``` msfconsole ``` komutu ile Metasploit başlatıyorum. Ardından ``` serach miniserv 1.890 ``` komutu ile exploit buluyorum.
 
+![Screenshot_2](https://user-images.githubusercontent.com/34964480/90020558-af380a00-dcb8-11ea-9c6a-4c21a7e3548c.png)
+
+
 

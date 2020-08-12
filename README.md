@@ -67,7 +67,9 @@ Dosya yolumuz /usr/share/webmin şeklinde. Bize lazım olan ```uer.txt``` ve ```
 
 Sonrasında ise ```ls /home``` komutu ile home klasörüne bakıyorum içeride dark klasörü yer alıyor ``` ls /home/dark ``` komutuyla dark klasörüne bakıyorum ve user.txt burada.
 
-Son olarak ```cat /home/dark/user.txt``` komutu iker user.txt bayrağını elde ediyoruz.
+Son olarak ```cat /home/dark/user.txt``` komutu ile user.txt bayrağını elde ediyoruz.
+
+Böylece odayı tamamlamış olduk. Umarım faydalı olmuştur. Bir sonraki yazıda görüşmek üzere.
 
 
 

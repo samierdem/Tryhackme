@@ -8,12 +8,12 @@ Bana verdiği IP adresi şu şekilde = 10.10.90.55 (sizde bu farklı olacaktır.
 
 Şimdi NMAP taraması yapıyorum 
 
-<pre><code>namp -sV 10.10.90.55 </code></pre>
+``` namp -sV 10.10.90.55 ```
 
 
 tarama sonucu şu şekilde;
 
-<pre><code>
+```
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-08-12 08:21 EDT
 Nmap scan report for 10.10.90.55
 Host is up (0.090s latency).
@@ -25,7 +25,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 40.58 seconds
-</code></pre>
+```
 
 Burada görüyorum ki 10000 portunda Webmin çalışıyor.
 
@@ -37,7 +37,5 @@ Karşım giriş sayfası çıkıyor.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/34964480/90019273-d8f03180-dcb6-11ea-9405-660efed5b2f6.png)
 
-------
-
-
+Terminal ekranımda ``` msfconsole ``` komutu ile Metasploit başlatıyorum.
 

@@ -41,7 +41,7 @@ https://dencode.com/ sitesine giderek bu şifreli bayrağı yağıştırıyorum 
 
 İkinci soruda ise benden ```Water-Type Pokemon``` isteniyor.
 
-```locate``` komutu ile ```water``` araması yapıyorum karşıma çıkanlar arasında ```water-type.txt``` görüyorum ve  ```cat /var/www/html/water-type.txt``` komutu ile çaıyorum burada ikinci sorumun cevabını buluyorum.
+```locate``` komutu ile ```water``` araması yapıyorum karşıma çıkanlar arasında ```water-type.txt``` görüyorum ve  ```cat /var/www/html/water-type.txt``` komutu ile açıyorum burada ikinci sorumun cevabını buluyorum.
 
 ![Screenshot_4](https://user-images.githubusercontent.com/34964480/90061649-183a7480-dcef-11ea-939e-2fdd7c1d5bce.png)
 

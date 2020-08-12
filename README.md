@@ -14,7 +14,6 @@ Bana verdiği IP adresi şu şekilde = 10.10.90.55 (sizde bu farklı olacaktır.
 tarama sonucu şu şekilde;
 
 <pre><code>
-nmap -sV 10.10.90.55
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-08-12 08:21 EDT
 Nmap scan report for 10.10.90.55
 Host is up (0.090s latency).
@@ -27,3 +26,9 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 40.58 seconds
 </code></pre>
+
+Burada görüyorum ki 10000 portunda Webmin çalışıyor.
+
+10.10.90.55:10000 şekilince arama yapıyorum tarayıcıda.Burada https şekilnde arama yapmam gerektiğini görüyorum.
+
+https://10.10.90.55:10000 şekilinde arama yapıyorum ve karşıma çıkan uyarıya Advanced kısmından devam diyerek ilerliyorum.

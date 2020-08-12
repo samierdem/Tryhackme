@@ -33,7 +33,11 @@ Burada sırasyla ```ls``` ```cd Desktop``` ```ls``` komutlarını girdiğimde Po
 
 Şimdi bunu zipten çıkarmak için ```unzip PokEmOn.zip ``` komutunu giriyorum ardından ```ls``` komutunu girince P0kEmOn klasörünü zipten çıkmış halde görüyorum.
 
-Şimdi bu klasöre girelim ```cd P0kEmOn ```
+Şimdi bu klasöre girelim ```cd P0kEmOn ``` ardından ```ls``` burada görüyorum ki ```grass-type.txt``` var.
+
+Bunu ```cat grass-type.txt``` komutu ile açalım.Burada şifreli bir bayrak var.
+
+https://dencode.com/ sitesine giderek bu şifreli bayrağı yağıştırıyorum ve ilk sorumun cevabını elde ediyorrum.
 
 
 

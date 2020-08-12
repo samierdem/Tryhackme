@@ -1,2 +1,2 @@
 # Source by Tryhackme
-Bu bölümde Tryhackme odalarının çözümleri yer almaktadır.
+Odaya buradan ulaşabilirsiniz. https://tryhackme.com/room/source

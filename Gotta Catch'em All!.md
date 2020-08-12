@@ -47,6 +47,12 @@ https://dencode.com/ sitesine giderek bu şifreli bayrağı yağıştırıyorum 
 
 ![Screenshot_6](https://user-images.githubusercontent.com/34964480/90061774-4b7d0380-dcef-11ea-82eb-9a92b5c59961.png)
 
+Ama cevabı decode etmem gerekli.Bunun için https://cryptii.com/ adresine gidiyorum.
+
+![Screenshot_7](https://user-images.githubusercontent.com/34964480/90063055-70727600-dcf1-11ea-93b7-274cbc9f6b22.png)
+
+
+
 
 
 

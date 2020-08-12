@@ -32,3 +32,5 @@ Burada görüyorum ki 10000 portunda Webmin çalışıyor.
 10.10.90.55:10000 şekilince arama yapıyorum tarayıcıda.Burada https şekilnde arama yapmam gerektiğini görüyorum.
 
 https://10.10.90.55:10000 şekilinde arama yapıyorum ve karşıma çıkan uyarıya Advanced kısmından devam diyerek ilerliyorum.
+
+

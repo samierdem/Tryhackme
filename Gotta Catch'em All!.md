@@ -10,3 +10,8 @@ Bana verdiği IP adresi şu şekilde = 10.10.55.124 (sizde bu farklı olacaktır
 namp -sV -sC -Pn  10.10.55.124
 
 tarama sonucu şu şekilde;
+
+Burada görüyorum ki 22 ve 80 portları açık. 
+
+10.10.55.124 adresine gidip sayfa kaynağını incelerken  
+

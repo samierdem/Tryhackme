@@ -59,5 +59,18 @@ Sırasıyla ;
             
 ![Screenshot_4](https://user-images.githubusercontent.com/34964480/90021772-608b6f80-dcba-11ea-98da-05662f2be10e.png)
 
-Bu aşamadan sonra ```pwd```komutu ile hangi dosya yolunda bulunduğumuzu görebiliriz.              
+Bu aşamadan sonra ```pwd```komutu ile hangi dosya yolunda bulunduğumuzu görebiliriz.   
+
+Dosya yolumuz /usr/share/webmin şeklinde. Bize lazım olan ```uer.txt``` ve ```root.txt```.
+
+İlk olarak ```ls/root``` komutu ile root yoluna bakıyorum ve root.txt burada. ```cat /root/root.txt``` komutu ile root.txt bayrağını elde ediyoruz.
+
+Sonrasında ise ```ls /home``` komutu ile home klasörüne bakıyorum içeride dark klasörü yer alıyor ``` ls /home/dark ``` komutuyla dark klasörüne bakıyorum ve user.txt burada.
+
+Son olarak ```cat /home/dark/user.txt``` komutu iker user.txt bayrağını elde ediyoruz.
+
+
+
+
+
 

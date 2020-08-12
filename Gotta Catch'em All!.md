@@ -53,7 +53,10 @@ Ama cevabı decode etmem gerekli.Bunun için https://cryptii.com/ adresine gidiy
 
 Böylece ikinci soruyuda geride bıraktık şimdi üçüncü soru için ```locate fire-type ``` araması yapıyorum ```/etc/why_am_i_here?/fire-type.txt``` yolunu görüyorum 
 ```cat /etc/why_am_i_here?/fire-type.txt ``` komutu ile şifreli bayrağı buluyorum.
-Yeniden https://dencode.com/ adresine giderek bayrağı yapıştırıyorum aşağıda ```Base64``` olarak çevrilmiş hali gözüküyor.Böylece üçüncü soruyuda geride bıraktık.
+
+Yeniden https://dencode.com/ adresine giderek bayrağı yapıştırıyorum aşağıda ```Base64``` olarak çevrilmiş hali gözüküyor. Böylece üçüncü soruyuda geride bıraktık.
+
+
 
 
 

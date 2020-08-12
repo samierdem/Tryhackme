@@ -56,7 +56,13 @@ Böylece ikinci soruyuda geride bıraktık şimdi üçüncü soru için ```locat
 
 Yeniden https://dencode.com/ adresine giderek bayrağı yapıştırıyorum aşağıda ```Base64``` olarak çevrilmiş hali gözüküyor. Böylece üçüncü soruyuda geride bıraktık.
 
-Biraz araştırma yaptıpımda farkettim ki ```Videos``` klasörünün altında ```Gotta/Catch/Them/All!``` 
+Biraz araştırma yaptığımda farkettim ki ```Videos``` klasörünün altında ```Gotta/Catch/Them/All!``` şeklinde devam eden alt klasörler var sırasıyla giriyorum ve en son karşıma garip bir dosya geliyor ```cat``` komutu ile açtığımda içerisinde bir kullanıcı görüyorum bununla ```ssh``` girişi yapacağız.
+
+![Screenshot_9](https://user-images.githubusercontent.com/34964480/90066254-29d34a80-dcf6-11ea-98c6-ea4d23aedc17.png)
+
+```ssh <username>@10.10.55.124``` komutu ile giriş yapıyorum.
+
+
 
 
 

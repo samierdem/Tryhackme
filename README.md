@@ -5,3 +5,5 @@
 İlk olarak VPN açıp makinayı çalıştırıyourm. 
 
 Bana verdiği IP adresi şu şekilde = 10.10.90.55 (sizde bu farklı olacaktır.)
+
+Şimdi NMAP taraması yapıyorum tarama sonucu şu şekilde;

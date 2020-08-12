@@ -49,7 +49,7 @@ Bulduğum bu exploiti kullanmak için exploit sırasını şeçmem gerekli bunun
 
 Sırasıyla ;
 
-            1 - set RHOSTS <buraya hedef ip adresi > ``` bizimki bu şekilde ``` set RHOSTS 10.10.90.55 
+            1 - set RHOSTS <buraya hedef ip adresi >  bizimki bu şekilde set RHOSTS 10.10.90.55 
             
             2 - set SSL true
             

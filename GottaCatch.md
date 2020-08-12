@@ -61,7 +61,7 @@ Biraz araştırma yaptığımda farkettim ki ```Videos``` klasörünün altında
 ![Screenshot_9](https://user-images.githubusercontent.com/34964480/90066254-29d34a80-dcf6-11ea-98c6-ea4d23aedc17.png)
 
 ```ssh <username>@10.10.55.124``` komutu ile giriş yapıyorum.
-
+Burada ```cd /home``` ```ls``` komutlarını giriyorum. Karşıma ```roots-pokemons.txt``` çıkıyor. ```cat roots-pokemons.txt``` komutu ile bu txt yi açalım. 
 
 
 

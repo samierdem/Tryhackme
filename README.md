@@ -57,6 +57,7 @@ Sırasıyla ;
             
             4 - run 
             
+![Screenshot_4](https://user-images.githubusercontent.com/34964480/90021772-608b6f80-dcba-11ea-98da-05662f2be10e.png)
 
             
 

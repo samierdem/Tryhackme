@@ -11,6 +11,9 @@ namp -sV -sC -Pn  10.10.55.124
 
 tarama sonucu şu şekilde;
 
+![Screenshot_2](https://user-images.githubusercontent.com/34964480/90057828-9d228f80-dce9-11ea-80d4-f2b083923684.png)
+
+
 Burada görüyorum ki 22 ve 80 portları açık. 
 
 10.10.55.124 adresine gidip sayfa kaynağını incelerken ssh kullanıcısı ve şifresinin yer aldığını düşündüğüm bir bölüm görüyorum ve bunu deneyeceğiz.

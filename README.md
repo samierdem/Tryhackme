@@ -69,7 +69,7 @@ Sonrasında ise ```ls /home``` komutu ile home klasörüne bakıyorum içeride d
 
 Son olarak ```cat /home/dark/user.txt``` komutu ile user.txt bayrağını elde ediyoruz.
 
-####Böylece odayı tamamlamış olduk. Umarım faydalı olmuştur. Bir sonraki yazıda görüşmek üzere.
+###Böylece odayı tamamlamış olduk. Umarım faydalı olmuştur. Bir sonraki yazıda görüşmek üzere.
 
 
 

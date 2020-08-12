@@ -37,7 +37,7 @@ Burada sırasyla ```ls``` ```cd Desktop``` ```ls``` komutlarını girdiğimde Po
 
 Bunu ```cat grass-type.txt``` komutu ile açalım.Burada şifreli bir bayrak var.
 
-https://dencode.com/ sitesine giderek bu şifreli bayrağı yağıştırıyorum ve ilk sorumun cevabını elde ediyorrum.
+https://dencode.com/ adresine giderek bu şifreli bayrağı yağıştırıyorum ve ilk sorumun cevabını elde ediyorrum.
 
 İkinci soruda ise benden ```Water-Type Pokemon``` isteniyor.
 
@@ -51,8 +51,9 @@ Ama cevabı decode etmem gerekli.Bunun için https://cryptii.com/ adresine gidiy
 
 ![Screenshot_7](https://user-images.githubusercontent.com/34964480/90063055-70727600-dcf1-11ea-93b7-274cbc9f6b22.png)
 
-
-
+Böylece ikinci soruyuda geride bıraktık şimdi üçüncü soru için ```locate fire-type ``` araması yapıyorum ```/etc/why_am_i_here?/fire-type.txt``` yolunu görüyorum 
+```cat /etc/why_am_i_here?/fire-type.txt ``` komutu ile şifreli bayrağı buluyorum.
+Yeniden https://dencode.com/ adresine giderek bayrağı yapıştırıyorum aşağıda ```Base64``` olarak çevrilmiş hali gözüküyor.Böylece üçüncü soruyuda geride bıraktık.
 
 
 
